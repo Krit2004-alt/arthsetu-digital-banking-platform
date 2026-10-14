@@ -1,0 +1,49 @@
+# Secrets and Credentials
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.p12
+*.jks
+*.crt
+*.der
+credentials.json
+**/keys/*
+
+# Gradle & Build Output
+.gradle/
+build/
+**/build/
+out/
+target/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE & Editor
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.class
+
+# Logs & Diagnostics
+*.log
+logs/
+hs_err_pid*
+replay_pid*
+
+# OS & Temporary
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
+*.tmp
+*.swp
+
+# Docker volumes (local data only)
+docker/volumes/
+**/docker/volumes/
+
+
+!**/keys/public.pem
