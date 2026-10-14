@@ -255,8 +255,8 @@ OpenFeign client calls from Transaction Service to Account Service are protected
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/JesussPacheco/FinCore.git
-cd fincore
+git clone https://github.com/Krit2004-alt/arthsetu-digital-banking-platform.git
+cd arthsetu-digital-banking-platform
 ```
 
 ### 2. Generate RSA keys for JWT
@@ -741,5 +741,5 @@ git push origin main
 ## Author
 
 **Kritika Khandelwal** — Backend Java Developer
-- GitHub: 
+- GitHub: [ArthSetu Repository](https://github.com/Krit2004-alt/arthsetu-digital-banking-platform)
 - Stack: Java 21 · Spring Boot 3.3.5 · Apache Kafka · PostgreSQL · Redis · Docker · AWS
